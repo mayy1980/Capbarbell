@@ -2,7 +2,7 @@
 // @name         Capbarbell
 // @namespace    http://tampermonkey.net/
 // @include      *pbsc.capbarbell.com*
-// @version      2024-06-15
+// @version      2024-06-15-2
 // @description  make work easy
 // @downloadURL  https://raw.githubusercontent.com/mayy1980/Capbarbell/main/Capbarbell.js
 // @author       May
